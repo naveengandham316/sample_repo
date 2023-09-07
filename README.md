@@ -1,1 +1,2 @@
-# sample_repo
+cd sample_repo
+touch readme.dm
